@@ -1,3 +1,7 @@
+![Plot1-PNG](https://user-images.githubusercontent.com/76525998/132565371-dab06e39-b23d-43c3-adea-53b6c47c612d.png)
+![Plot2-PNG](https://user-images.githubusercontent.com/76525998/132565379-fc11ad7f-fce4-44d5-a246-b6803259dc8e.png)
+![Plot3-PNG](https://user-images.githubusercontent.com/76525998/132565383-e8d35285-a266-4ecb-befd-d6efe54387fd.png)
+![Plot4-PNG](https://user-images.githubusercontent.com/76525998/132565385-8ba18afe-1ae5-4877-a1aa-d46eb2653222.png)
 ## Introduction
 
 This assignment uses data from
